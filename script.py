@@ -1,6 +1,0 @@
-var = input("Digite algo: ")
-print(var.isalnum())
-print(var.isalpha())
-print(var.isascii())
-print(var.isdecimal())
-print(var.isdigit())
